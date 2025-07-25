@@ -77,6 +77,7 @@ DOWNLOADED: 4610 - FOUND: 2
 - **FOUND**:
   - `bank-deposit`: A valid page (status code **200**).
   - `images`: A redirect (status code **301**).
+  - The lines starting with a + sign are the results of the scan. In this case, dirb was able to find two URLs for you. Try opening them in the machine's browser! You might find something interesting.
 
 📌 Tip: Try visiting the discovered URLs in your browser. They may reveal sensitive functionality.
 
